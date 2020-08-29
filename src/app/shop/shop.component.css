@@ -1,0 +1,54 @@
+h1{
+    color: darkgrey;
+    font-family: 'Pirata One' ;
+}
+.cardbackg{
+    background: rgb(22, 22, 22);
+}
+.letrascard{
+    
+    font-size: 30px;
+    color: rgb(204, 199, 199);
+}
+.carbutton{
+    background: rgb(0, 0, 0);
+    color: rgb(63, 140, 241);
+    box-shadow: 0 0 10px 0 rgba(179, 186, 192, 0.753);
+}
+.carbutton:hover{
+    opacity: 0.5;
+ }
+ .card {
+    box-shadow: 0 0 12px 0  rgb(126, 210, 221);
+}
+.conteni{
+    background: rgb(92, 85, 74);
+    border: 1px double rgb(187, 179, 168);
+}
+.ubic{
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  height: 100px;
+  width: 100px;
+  background-size: 100%, 100%;
+  background-image: none;
+}
+
+.carousel-control-next-icon:after
+{
+  content: '>';
+  font-size: 55px;
+  color: rgb(72, 214, 219);
+}
+
+.carousel-control-prev-icon:after {
+  content: '<';
+  font-size: 55px;
+  color: rgb(72, 214, 219);
+
+}

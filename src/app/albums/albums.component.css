@@ -1,0 +1,38 @@
+/* .cd{
+    color: rgb(219, 205, 205);
+    font-family: 'Metal Mania' ;
+    
+} */
+.letracd h1{
+    color: rgb(16, 12, 226);
+    font-family: 'Uncial Antiqua', cursive;
+    font-size: 35px;
+    padding: 10px;
+  
+}
+@media (min-width: 1200px) {
+    .container{
+        max-width: 1199px;
+    }
+}
+a{
+    font-size: 25px;
+    padding: 10px;
+    text-align: center;
+    color: rgb(12, 10, 133);
+}
+audio{
+    padding: 10px;
+    opacity: 0.9;
+
+}
+p{
+    color: rgb(188, 200, 201);
+    font-family: 'Fondamento', cursive;
+    font-size: 20px;
+}
+cite{
+    color: rgb(219, 205, 205);
+    font-family: 'Trade Winds' , cursive ;
+    
+}

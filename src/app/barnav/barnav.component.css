@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    min-height: 8vh;
+}
+.navbar-nav{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+}
+.navbar-nav a{
+    color: white;
+    font-family: 'Black Ops One', cursive;
+    text-decoration: none;
+    letter-spacing: 2px;
+    font-size: 20px;
+    align-items: center;
+    padding: 2px;
+    }
+
+.lis {
+    font-family: 'Uncial Antiqua', cursive;
+    font-size: 30px;
+}
+.ytbicon{
+    border-radius: 20%;
+}
+.rsoc{
+    display: flex;
+    justify-content: space-around;
+   
+}
+.ke{
+   
+    padding-top: 7px;
+}
+

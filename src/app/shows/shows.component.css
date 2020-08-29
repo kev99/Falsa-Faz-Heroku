@@ -1,0 +1,31 @@
+ .proxtit{
+    color: darkmagenta;
+}
+p {
+color: rgb(41, 52, 204); 
+font-size: 25px;
+}
+address{
+    color: blue;
+    font-size: 30px;
+}
+.letrashow{
+    font-family: 'Fondamento', cursive;
+}
+.carbutton{
+    background: rgb(2, 2, 2);
+    color: white;
+    box-shadow: 0 0 10px 0 rgba(255, 255, 255, .3);
+}
+.cardbackg{
+    background: rgb(14, 12, 12);
+}
+.letrascard{
+    font-family: 'Fjalla One', sans-serif;
+}
+.carbutton:hover{
+   opacity: 0.5;
+}
+.card {
+    box-shadow: 0 0 12px 0 rgba(255, 255, 255, .3);
+}
