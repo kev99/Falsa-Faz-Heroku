@@ -10,6 +10,10 @@
     display: inline-block;
 
 }
+.img2{
+    display: inline-block;
+
+}
 .slideshow{
     position: relative;
     width: 95px;
@@ -88,3 +92,9 @@ span{
 a{
     border-radius: 10%;
 }
+/* @media only screen and (max-width:758px){
+    .img2{
+        width: 678px;
+        height: 272px;
+    } 
+}*/
