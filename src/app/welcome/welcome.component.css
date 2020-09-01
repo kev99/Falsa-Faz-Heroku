@@ -6,14 +6,7 @@
   align-items: center;
   min-height: 100vh;
 }
-.img1{
-    display: inline-block;
 
-}
-.img2{
-    display: inline-block;
-
-}
 .slideshow{
     position: relative;
     width: 95px;
