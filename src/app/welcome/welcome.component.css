@@ -85,9 +85,77 @@ span{
 a{
     border-radius: 10%;
 }
-/* @media only screen and (max-width:758px){
-    .img2{
-        width: 678px;
-        height: 272px;
+.img3{
+    visibility: hidden;
+    width: 0px;
+    height: 0px;
+
+} 
+@media only screen and (max-width:768px){
+    .img1{
+        visibility: hidden;
+
     } 
-}*/
+    .img2{
+        visibility: hidden;
+        width: 0px;
+        height: 0px;
+    } 
+    .img3{
+        visibility: visible;
+        width: 650px;
+        height: 450px;
+    
+    } 
+    @media only screen and (max-width:650px){
+        .img1{
+            visibility: hidden;
+    
+        } 
+        .img2{
+            visibility: hidden;
+            width: 0px;
+            height: 0px;
+        } 
+        .img3{
+            visibility: visible;
+            width: 550px;
+            height: 375px;
+        
+        } 
+    }
+    @media only screen and (max-width:576px){
+        .img1{
+            visibility: hidden;
+    
+        } 
+        .img2{
+            visibility: hidden;
+            width: 0px;
+            height: 0px;
+        } 
+        .img3{
+            visibility: visible;
+            width: 435px;
+            height: 200px;
+        
+        } 
+    }
+    @media only screen and (max-width:425px){
+        .img1{
+            visibility: hidden;
+    
+        } 
+        .img2{
+            visibility: hidden;
+            width: 0px;
+            height: 0px;
+        } 
+        .img3{
+            visibility: visible;
+            width: 335px;
+            height: 150px;
+        
+        } 
+    }
+}
