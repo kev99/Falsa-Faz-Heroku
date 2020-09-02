@@ -110,7 +110,6 @@ a{
     @media only screen and (max-width:650px){
         .img1{
             visibility: hidden;
-    
         } 
         .img2{
             visibility: hidden;
@@ -153,7 +152,7 @@ a{
         } 
         .img3{
             visibility: visible;
-            width: 335px;
+            width: 365px;
             height: 150px;
         
         } 
