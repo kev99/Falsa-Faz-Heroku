@@ -103,8 +103,8 @@ a{
     } 
     .img3{
         visibility: visible;
-        width: 650px;
-        height: 450px;
+        width: 682px;
+        height: 375px;
     
     } 
     @media only screen and (max-width:650px){
@@ -118,8 +118,8 @@ a{
         } 
         .img3{
             visibility: visible;
-            width: 550px;
-            height: 375px;
+            width: 600px;
+            height: 370px;
         
         } 
     }
@@ -135,8 +135,42 @@ a{
         } 
         .img3{
             visibility: visible;
-            width: 435px;
+            width: 565px;
             height: 200px;
+        
+        } 
+    }
+    @media only screen and (max-width:550px){
+        .img1{
+            visibility: hidden;
+    
+        } 
+        .img2{
+            visibility: hidden;
+            width: 0px;
+            height: 0px;
+        } 
+        .img3{
+            visibility: visible;
+            width: 505px;
+            height: 200px;
+        
+        } 
+    }
+    @media only screen and (max-width:450px){
+        .img1{
+            visibility: hidden;
+    
+        } 
+        .img2{
+            visibility: hidden;
+            width: 0px;
+            height: 0px;
+        } 
+        .img3{
+            visibility: visible;
+            width: 435px;
+            height: 175px;
         
         } 
     }
@@ -152,8 +186,93 @@ a{
         } 
         .img3{
             visibility: visible;
-            width: 365px;
+            width: 385px;
             height: 150px;
+        
+        } 
+    }
+    @media only screen and (max-width:400px){
+        .img1{
+            visibility: hidden;
+    
+        } 
+        .img2{
+            visibility: hidden;
+            width: 0px;
+            height: 0px;
+        } 
+        .img3{
+            visibility: visible;
+            width: 375px;
+            height: 135px;
+        
+        } 
+    }
+    @media only screen and (max-width:380px){
+        .img1{
+            visibility: hidden;
+    
+        } 
+        .img2{
+            visibility: hidden;
+            width: 0px;
+            height: 0px;
+        } 
+        .img3{
+            visibility: visible;
+            width: 355px;
+            height: 125px;
+        
+        } 
+    }
+    @media only screen and (max-width:350px){
+        .img1{
+            visibility: hidden;
+    
+        } 
+        .img2{
+            visibility: hidden;
+            width: 0px;
+            height: 0px;
+        } 
+        .img3{
+            visibility: visible;
+            width: 300px;
+            height: 115px;
+        
+        } 
+    }
+    @media only screen and (max-width:300px){
+        .img1{
+            visibility: hidden;
+    
+        } 
+        .img2{
+            visibility: hidden;
+            width: 0px;
+            height: 0px;
+        } 
+        .img3{
+            visibility: visible;
+            width: 250px;
+            height: 105px;
+        
+        } 
+    }
+    @media only screen and (max-width:250px){
+        .img1{
+            visibility: hidden;
+    
+        } 
+        .img2{
+            visibility: hidden;
+            width: 0px;
+            height: 0px;
+        } 
+        .img3{
+            visibility: visible;
+            width: 190px;
+            height: 100px;
         
         } 
     }
