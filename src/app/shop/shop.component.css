@@ -23,10 +23,7 @@ h1{
  .card {
     box-shadow: 0 0 12px 0  rgb(126, 210, 221);
 }
-.conteni{
-    background: rgb(92, 85, 74);
-    border: 1px double rgb(187, 179, 168);
-}
+
 .ubic{
     padding-top: 10px;
     padding-left: 10px;
