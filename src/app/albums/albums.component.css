@@ -1,8 +1,3 @@
-/* .cd{
-    color: rgb(219, 205, 205);
-    font-family: 'Metal Mania' ;
-    
-} */
 .letracd h1{
     color: rgb(16, 12, 226);
     font-family: 'Uncial Antiqua', cursive;
@@ -16,10 +11,10 @@
     }
 }
 a{
+    text-decoration: none;
     font-size: 25px;
-    padding: 10px;
     text-align: center;
-    color: rgb(12, 10, 133);
+    color: rgb(235, 235, 235);
 }
 audio{
     padding: 10px;
@@ -29,10 +24,11 @@ audio{
 p{
     color: rgb(188, 200, 201);
     font-family: 'Fondamento', cursive;
-    font-size: 20px;
+    font-size: calc(0.8rem + 2.2vw);
 }
 cite{
     color: rgb(219, 205, 205);
     font-family: 'Trade Winds' , cursive ;
-    
+    font-size: calc(1.5rem + 5.9vw);
+
 }
