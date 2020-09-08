@@ -1,5 +1,7 @@
  .proxtit{
     color: darkmagenta;
+    font-size: calc(1.5rem + 4.0vw);
+
 }
 p {
 color: rgb(41, 52, 204); 
@@ -10,6 +12,9 @@ address{
     font-size: 30px;
 }
 .letrashow{
+    font-family: 'Fondamento', cursive;
+}
+.letrashow2{
     font-family: 'Fondamento', cursive;
 }
 .carbutton{
@@ -29,3 +34,14 @@ address{
 .card {
     box-shadow: 0 0 12px 0 rgba(255, 255, 255, .3);
 }
+@media (min-width: 992px) { 
+    .letrashow{
+        margin-left: 75px;
+    }
+ }
+ @media (min-width: 1200px) { 
+    .letrashow{
+        margin-left: 90px;
+    }
+ }
+ 
