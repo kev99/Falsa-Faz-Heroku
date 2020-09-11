@@ -1,0 +1,10 @@
+.vtit{
+    color: darkgrey;
+    font-family: 'Pirata One' ;
+    font-size: calc(3.5rem + 2.6vw);
+}
+.vit{
+    font-family: 'Fjalla One', sans-serif;
+    color: rgb(41, 52, 204); 
+    font-size: 25px;
+}

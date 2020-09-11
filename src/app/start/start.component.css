@@ -1,0 +1,21 @@
+.tit{
+    color: rgb(219, 205, 205);
+    font-family: 'Trade Winds' , cursive ;
+    font-size: calc(1.5rem + 5.9vw);
+}
+.tit2{
+    font-family: 'Fondamento', cursive;
+    color: rgb(41, 52, 204); 
+    font-size: calc(1.0rem + 2.9vw);
+
+}
+audio{
+    padding: 10px;
+    opacity: 0.9;
+
+}
+p{
+    color: rgb(188, 200, 201);
+    font-family: 'Fondamento', cursive;
+    font-size: calc(0.7rem + 1.5vw);
+}
