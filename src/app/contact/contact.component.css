@@ -1,6 +1,10 @@
 * {
     box-sizing: border-box;
 }
+h1{
+    font-size: 6vw;
+
+}
 
 .contact {
     color:darkgray;
@@ -17,9 +21,7 @@
 .logo {
     text-align: center;
     color:darkgray;
-    margin-bottom: 20px;
     font-family: 'Pirata One' ;
-
     }
 
 .contact-wrapper {
@@ -27,14 +29,13 @@
 }
 
 .contact-wrapper>* {
-    padding: 1em;
+    padding: 0.8em;
 }
 
  
 
 .contact-info {
-    background: rgb(12, 12, 12);
-}
+    background: rgb(12, 12, 12);}
 
  
 .contact-info h4,
@@ -51,33 +52,18 @@
     padding: 0;
 }
 
-.contact-info ul li {
-    padding: .3em;
-}
 
 
-/* LARGE SIZE */
 
-@media(min-width: 700px) {
-    .contact {
-        padding: 0 4em;
-    }
-     
-    .contact-wrapper>* {
-        padding: 2em;
-    }
-}
 
 .contact-info span {
     color: rgb(188, 200, 201);
-    font-family: 'Fjalla One', sans-serif;
-    font-size: 1.5rem;
+    font-family: 'Alata', sans-serif;
+    font-size: calc(0.2rem + 1.8vw);
 }
 
-.lform {
+.e1 {
     font-family: 'Fjalla One', sans-serif;
-}
+    font-size: calc(0.2rem + 1.8vw);
 
-.lcont {
-    font-size: 1.3rem;
 }
